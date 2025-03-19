@@ -1,5 +1,5 @@
 - 👋 MERHABA BEN HAKAN 
-- 👀 BURAYA BAZI YAPTIĞIM PROJELERİMİ BIRAKIYORUM 
+- 👀 BURAYA BAZI EĞLENCELERİMİ BIRAKIYORUM 
   
 <!---
 hakanmetei/hakanmetei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
